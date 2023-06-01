@@ -6,10 +6,8 @@
 </template>
 
 <script setup>
-import { defineProps, defineEmits, ref } from "vue";
-const message = ref("Hello World");
+  import { defineProps, defineEmits, ref } from "vue";
+  const message = ref("Hello World");
 </script>
 
-<style scoped>
-
-</style>
+<style scoped></style>
